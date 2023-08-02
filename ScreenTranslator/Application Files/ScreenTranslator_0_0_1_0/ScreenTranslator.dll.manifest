@@ -62,13 +62,13 @@
       <dsig:DigestValue>Ym7iixE2bka+hfYY4PC3IKFFrwLLb8aUXnWl77MnK5o=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="ScreenTranslator.deps.json" size="1100">
+  <file name="publishScreenTranslator.deps.json" size="1486">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>JInxLX3CyNN+YR7E4jCR4qmJDubs8UzEmPXRHoftoF0=</dsig:DigestValue>
+      <dsig:DigestValue>pCDcKDrO/ZcLqF61fiOgfwGhJcv8fmePs9IX7esjRNU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ScreenTranslator.dll" size="8704">
