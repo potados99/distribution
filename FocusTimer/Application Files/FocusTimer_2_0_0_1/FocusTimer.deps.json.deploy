@@ -15,10 +15,7 @@
           "Microsoft.AppCenter.Crashes": "5.0.2",
           "Microsoft.EntityFrameworkCore.Sqlite": "3.1.32",
           "System.Drawing.Common": "7.0.0",
-          "log4net": "2.0.15",
-          "LiveChartsCore.Reference": "2.0.0.0",
-          "LiveChartsCore.SkiaSharpView.Reference": "2.0.0.0",
-          "LiveChartsCore.SkiaSharpView.WPF.Reference": "2.0.0.0"
+          "log4net": "2.0.15"
         },
         "runtime": {
           "FocusTimer.dll": {}
@@ -736,28 +733,32 @@
           "System.Drawing.Common": "7.0.0"
         }
       },
-      "LiveChartsCore.Reference/2.0.0.0": {
+      "LiveChartsCore/2.0.0-beta.710": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.2"
+        },
         "runtime": {
-          "LiveChartsCore.dll": {
-            "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.0.0.0"
-          }
+          "LiveChartsCore.dll": {}
         }
       },
-      "LiveChartsCore.SkiaSharpView.Reference/2.0.0.0": {
+      "LiveChartsCore.SkiaSharpView/2.0.0-beta.710": {
+        "dependencies": {
+          "LiveChartsCore": "2.0.0-beta.710",
+          "SkiaSharp": "2.88.3",
+          "SkiaSharp.HarfBuzz": "2.88.3"
+        },
         "runtime": {
-          "LiveChartsCore.SkiaSharpView.dll": {
-            "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.0.0.0"
-          }
+          "LiveChartsCore.SkiaSharpView.dll": {}
         }
       },
-      "LiveChartsCore.SkiaSharpView.WPF.Reference/2.0.0.0": {
+      "LiveChartsCore.SkiaSharpView.WPF/2.0.0-beta.710": {
+        "dependencies": {
+          "LiveChartsCore": "2.0.0-beta.710",
+          "LiveChartsCore.SkiaSharpView": "2.0.0-beta.710",
+          "SkiaSharp.Views.WPF": "2.88.3"
+        },
         "runtime": {
-          "LiveChartsCore.SkiaSharpView.WPF.dll": {
-            "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.0.0.0"
-          }
+          "LiveChartsCore.SkiaSharpView.WPF.dll": {}
         }
       }
     }
@@ -1181,18 +1182,18 @@
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
-    "LiveChartsCore.Reference/2.0.0.0": {
-      "type": "reference",
+    "LiveChartsCore/2.0.0-beta.710": {
+      "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "LiveChartsCore.SkiaSharpView.Reference/2.0.0.0": {
-      "type": "reference",
+    "LiveChartsCore.SkiaSharpView/2.0.0-beta.710": {
+      "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "LiveChartsCore.SkiaSharpView.WPF.Reference/2.0.0.0": {
-      "type": "reference",
+    "LiveChartsCore.SkiaSharpView.WPF/2.0.0-beta.710": {
+      "type": "project",
       "serviceable": false,
       "sha512": ""
     }

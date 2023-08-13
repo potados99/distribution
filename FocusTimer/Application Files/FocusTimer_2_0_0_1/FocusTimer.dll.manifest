@@ -99,13 +99,13 @@
       <dsig:DigestValue>OAOUabdNq/MVZ2ibbXDmOporey08ogLcvuoKS1f3iqs=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="FocusTimer.deps.json" size="47129">
+  <file name="FocusTimer.deps.json" size="47074">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>CQZI2+tF7Zo/CSA3X9eChry4mXX5oDzaMO2jVKUG2Bk=</dsig:DigestValue>
+      <dsig:DigestValue>Z0gtAuVm80A+0sA4LWPhT9AOrKHA7PIW8JKPAsgiHbg=</dsig:DigestValue>
     </hash>
   </file>
   <file name="FocusTimer.dll" size="192000">
@@ -114,7 +114,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>mxl/KukihILzvQYqHws6OUhvgDSvC05f1RtdClsoTZ4=</dsig:DigestValue>
+      <dsig:DigestValue>acEvcpUtld9P4oQcTEGqbTNm+FBlnKHO3jK2Pm0JVz8=</dsig:DigestValue>
     </hash>
   </file>
   <file name="FocusTimer.dll.config" size="1484">
@@ -132,7 +132,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>eBYOfhY/ksScyNoiYe+cR3qysIT+RTw/I+FX8Kr4kUk=</dsig:DigestValue>
+      <dsig:DigestValue>vvCOfxVZ3mbssAblKkbDAd3VHOYWuVImBCadne0htBo=</dsig:DigestValue>
     </hash>
   </file>
   <file name="FocusTimer.runtimeconfig.json" size="372">
@@ -189,31 +189,31 @@
       <dsig:DigestValue>WKHi63KVssB5HtZBVN1yqQXVqmCuaPknpb7JVL53mEE=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LiveChartsCore.dll" size="599040">
+  <file name="LiveChartsCore.dll" size="569344">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>hIKdH++uJB4Ou/FafLjIk/RbLQ9UTUe3/klyDBWzw1I=</dsig:DigestValue>
+      <dsig:DigestValue>7HTIsdlmizIGYoqca7ArupGAn1agkHQNz+niSFSjhJ0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LiveChartsCore.SkiaSharpView.dll" size="135168">
+  <file name="LiveChartsCore.SkiaSharpView.dll" size="129024">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>eYQpkt3u2qlpgvCju074FRE08Ci9QTauuFb4BTpj5u8=</dsig:DigestValue>
+      <dsig:DigestValue>tevLO/lewTCqIVeHNRtjhzvYzllBXH/sLUSwr7J5pFI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LiveChartsCore.SkiaSharpView.WPF.dll" size="54784">
+  <file name="LiveChartsCore.SkiaSharpView.WPF.dll" size="52736">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>V0ilAufcq6i19cvl+QqsKEJXMrXLio+upcFiqijxbQ0=</dsig:DigestValue>
+      <dsig:DigestValue>T784JVCShMfRkra5/CnNa2umUP7D25geyYjLLZFDyLM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="log4net.dll" size="258048">
