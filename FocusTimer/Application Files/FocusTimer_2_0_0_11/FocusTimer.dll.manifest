@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="FocusTimer.exe" version="2.0.0.10" publicKeyToken="0000000000000000" language="ko-KR" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="FocusTimer.exe" version="2.0.0.11" publicKeyToken="0000000000000000" language="ko-KR" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="Resources\icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -87,7 +87,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>/YvyR8+LuDxz3FHHfAEEslCvImPIOouFS0z68SG0F6Y=</dsig:DigestValue>
+      <dsig:DigestValue>L64leN5/ziOJ9terC69GS34ehMxJMIP83FjY0FiF20A=</dsig:DigestValue>
     </hash>
   </file>
   <file name="FocusTimer.dll.config" size="1484">
@@ -105,7 +105,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>SPCeSNm3zEWh3UQ7bisXLJGjm6rVHALWaON5CD8xUnk=</dsig:DigestValue>
+      <dsig:DigestValue>rZJh3uhn26eBoEKKC91VHHq6lpus2P5PHcV9GZY3pIo=</dsig:DigestValue>
     </hash>
   </file>
   <file name="FocusTimer.runtimeconfig.json" size="441">
