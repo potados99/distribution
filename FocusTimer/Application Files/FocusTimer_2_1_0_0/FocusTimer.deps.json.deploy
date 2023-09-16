@@ -23,6 +23,11 @@
         },
         "runtime": {
           "FocusTimer.dll": {}
+        },
+        "resources": {
+          "ko-KR/FocusTimer.resources.dll": {
+            "locale": "ko-KR"
+          }
         }
       },
       "CalcBinding/2.5.2": {
