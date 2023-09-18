@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="FocusTimer.exe" version="2.1.0.0" publicKeyToken="0000000000000000" language="ko-KR" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="FocusTimer.exe" version="2.2.0.0" publicKeyToken="0000000000000000" language="ko-KR" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="Resources\icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -90,22 +90,22 @@
       <dsig:DigestValue>GRdeie5kMXiWfL4hHE9qUlN5FPnZEOG7KyxRBNfYeCQ=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="FocusTimer.dll" size="229888">
+  <file name="FocusTimer.dll" size="232960">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>95uDt0QpZ1x5iOiZ+UZPXZdkAyU74/YK26+xY8Fj6Rk=</dsig:DigestValue>
+      <dsig:DigestValue>QF740vL3IzKAuLgb0Plf1QZ/sbzn12yNkScLYHJDaQQ=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="FocusTimer.dll.config" size="1077">
+  <file name="FocusTimer.dll.config" size="1323">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>QLMP9SnyU7BCuKgV8ACh3s6flMFXdCoI7os5l7SVELE=</dsig:DigestValue>
+      <dsig:DigestValue>m+W3iedActVrBz5n4ZlKtzsIZKoCn4Vf6AJ+8EPGCy4=</dsig:DigestValue>
     </hash>
   </file>
   <file name="FocusTimer.exe" size="161280">
@@ -114,7 +114,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Hn6BwiRxXeF+kQt0AXmk2cHAxQhB+nJpjCXcVDyrbvg=</dsig:DigestValue>
+      <dsig:DigestValue>9GIQAJuvxbYgWh/P9oC2G39Bhd45HyG2CRRPI7jzqyc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="FocusTimer.runtimeconfig.json" size="441">
@@ -135,13 +135,13 @@
       <dsig:DigestValue>fJOTu15dtmjAPdHz0iwyUashYoptZh2MRvi+H+bpwJY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="ko-KR\FocusTimer.resources.dll" size="4608">
+  <file name="ko-KR\FocusTimer.resources.dll" size="5120">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>//NoEKjt1oATnv8nHHlyPRQExsEkDdymO+iSnm2hWs8=</dsig:DigestValue>
+      <dsig:DigestValue>f+M0EKOChcXLl83zOWf/bTrX/u82kYpz/iewuHQ5cKM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="libHarfBuzzSharp.dll" size="914832">
