@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="FocusTimer.exe" version="2.2.0.0" publicKeyToken="0000000000000000" language="ko-KR" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="FocusTimer.exe" version="2.2.1.0" publicKeyToken="0000000000000000" language="ko-KR" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="Resources\icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -96,7 +96,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>QF740vL3IzKAuLgb0Plf1QZ/sbzn12yNkScLYHJDaQQ=</dsig:DigestValue>
+      <dsig:DigestValue>vquzI/DGBqwoP2A6uYWpgDuldZWskahGQkPMT5IBdCc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="FocusTimer.dll.config" size="1323">
@@ -108,13 +108,13 @@
       <dsig:DigestValue>m+W3iedActVrBz5n4ZlKtzsIZKoCn4Vf6AJ+8EPGCy4=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="FocusTimer.exe" size="161280">
+  <file name="FocusTimer.exe" size="162816">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>9GIQAJuvxbYgWh/P9oC2G39Bhd45HyG2CRRPI7jzqyc=</dsig:DigestValue>
+      <dsig:DigestValue>08J6kSOBDIGZ9EJJPoqm5EXzQwscaVZm7fk3/4ZrLf8=</dsig:DigestValue>
     </hash>
   </file>
   <file name="FocusTimer.runtimeconfig.json" size="441">
@@ -141,7 +141,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>f+M0EKOChcXLl83zOWf/bTrX/u82kYpz/iewuHQ5cKM=</dsig:DigestValue>
+      <dsig:DigestValue>xmzV78rFNpULvX42fUw/3AxBPtvFxeOpeq5SP91mWmE=</dsig:DigestValue>
     </hash>
   </file>
   <file name="libHarfBuzzSharp.dll" size="914832">
@@ -168,7 +168,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>zkHXSYb3MPy7pv0We2cFbncYw/gSoVSawsTONwwBcvs=</dsig:DigestValue>
+      <dsig:DigestValue>bsH9S7G+T9tqKords/lH6t7koPi/SRl2IDgxoDv1bAA=</dsig:DigestValue>
     </hash>
   </file>
   <file name="LiveChartsCore.SkiaSharpView.dll" size="129024">
@@ -177,7 +177,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>sHZFdGZ92mL4yf7ajQ16lS7+PPwLcCodet8X3itqsXM=</dsig:DigestValue>
+      <dsig:DigestValue>rQ1IRIqrtVNg2PT/R4BKPt1OP5Mprt0QhwzWxpb8/JE=</dsig:DigestValue>
     </hash>
   </file>
   <file name="LiveChartsCore.SkiaSharpView.WPF.dll" size="52736">
@@ -186,7 +186,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>tXQfKp9tuz2qahPT927A0iCo6ekEjzwGC5eBsnUnNIg=</dsig:DigestValue>
+      <dsig:DigestValue>oskNyhurrreZK6E7fHQ3mgro9W8XgyGD+fehOStcI68=</dsig:DigestValue>
     </hash>
   </file>
   <file name="log4net.dll" size="258048">
