@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xrml="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <assemblyIdentity name="FocusTimer.application" version="2.4.1.0" publicKeyToken="0000000000000000" language="ko-KR" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <assemblyIdentity name="FocusTimer.application" version="2.4.2.0" publicKeyToken="0000000000000000" language="ko-KR" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <description asmv2:publisher="World Moment" co.v1:suiteName="Productivity" asmv2:product="Focus Timer" asmv2:supportUrl="https://tumblbug.com/worldmoment_focus" co.v1:errorReportUrl="https://tumblbug.com/worldmoment_focus" xmlns="urn:schemas-microsoft-com:asm.v1" />
-  <deployment install="true" mapFileExtensions="true" minimumRequiredVersion="2.4.1.0" co.v1:createDesktopShortcut="true">
+  <deployment install="true" mapFileExtensions="true" minimumRequiredVersion="2.4.2.0" co.v1:createDesktopShortcut="true">
     <subscription>
       <update>
         <beforeApplicationStartup />
@@ -14,14 +14,14 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\FocusTimer_2_4_1_0\FocusTimer.dll.manifest" size="7692">
-      <assemblyIdentity name="FocusTimer.exe" version="2.4.1.0" publicKeyToken="0000000000000000" language="ko-KR" processorArchitecture="msil" type="win32" />
+    <dependentAssembly dependencyType="install" codebase="Application Files\FocusTimer_2_4_2_0\FocusTimer.dll.manifest" size="7692">
+      <assemblyIdentity name="FocusTimer.exe" version="2.4.2.0" publicKeyToken="0000000000000000" language="ko-KR" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>9OK1xmZybD0idoG8PQD/ARNAcXyzOyDsfJv6zXS4yKg=</dsig:DigestValue>
+        <dsig:DigestValue>fxAEi1zoYNBZblVehJR3Tlv/bk+v0y9+mfdRmfZ1mlM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
